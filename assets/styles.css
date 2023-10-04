@@ -1,0 +1,20 @@
+.h1{
+    background-color: rgb(145, 145, 243);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+
+.footer{
+    background-color: rgb(79, 119, 248);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+
+}

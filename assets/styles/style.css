@@ -1,0 +1,35 @@
+/*valores por defecto*/
+:root{
+	--white:white;
+	--black:#000000;
+	--blue:#0965B7;
+}
+/*estilo de letra*/
+body{
+	font-size: 20px;
+	font-family:'Nunito', sans-serif;
+}
+
+
+/*subrayado */
+.s{
+	background-color: var(--blue);
+	color: var(--white);
+	font-size: 20px;
+	font-family: monospace;
+	display: flex;
+	float: left;
+	padding: 5px 20px;
+}
+
+/*boton*/
+
+.btn {
+    background-color: var(--blue);
+    border: none;
+    border-radius: 10px;
+    color: var(--white);
+    cursor: pointer;
+    padding: 9px 20px;
+    font-size: 20px;
+}
